@@ -1,4 +1,5 @@
 #! /bin/bash
+# yangyi, yylqy@zju.edu.cn;
 
 cd /lab/yangyi/project/10_amino_acid_pathway/add_spec20200116/01_data/
 makeblastdb -in Biosynthesis_of_amino_acids_ko_new.fasta -out Biosynthesis_of_amino_acids_ko -dbtype prot
