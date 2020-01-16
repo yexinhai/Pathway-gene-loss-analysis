@@ -2,6 +2,8 @@
 #get_noblastko
 use strict;
 
+# yexinhai, yexinhai@zju.edu.cn
+
 my @array_ko;
 open my $ko_list, "<", $ARGV[0] or die "can't open ko_list!\n";
 while (<$ko_list>) {
