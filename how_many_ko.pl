@@ -1,6 +1,8 @@
 #!/usr/bin/perl -w
 use strict;
 
+# yexinhai, yexinhai@zju.edu.cn
+
 my %hash_name2ko;
 
 open my $ko_ref, "<", $ARGV[0] or die "can't open ko_ref.fasta!\n";
