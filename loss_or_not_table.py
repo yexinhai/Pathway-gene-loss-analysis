@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+# yexinhai, yexinhai@zju.edu.cn
+
 from sys import argv
 
 with open (argv[1]) as specisekolist:
