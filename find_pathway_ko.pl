@@ -1,6 +1,8 @@
 #!/usr/bin/perl -w
 use strict;
 
+# yexinhai, yexinhai@zju.edu.cn
+
 #用法： perl find_pathway.pl <ko_ref.fasta> <blastp_result>
 
 my $id;
