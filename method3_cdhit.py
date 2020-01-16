@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# yangyi, yylqy@zju.edu.cn; yexinhai, yexinhai@zju.edu.cn
+
 from __future__ import print_function
 import os 
 adict = {}
